@@ -7,7 +7,7 @@ I want to thank Fred Quimby for awesome batariBasic and Harmony cart, Jeff Wiere
 
 Game's size is 4KB but I switched to 8KB when I added title screen's music and to 16KB when I added a bitmap title screen.
 
-Special thanks to Brian Ostrowski for box, label, manual and patch design, Scott Lawrenz for manual (English language) and to Walter Lauer for patches production.
+Special thanks to Brian Ostrowski for box, label, manual and patch design, Scott Lawrenz for English manual, Mario Caillahuz Aramburú, Gunnar Kanold, Jean-Christophe Ville for manual's translations (French, German and Spanish) and to Walter Lauer for patches production.
 
 The game is reviewed in Brian Bagnall's "The Atari 2600 Homebrew Companion: Volume 1".
 
